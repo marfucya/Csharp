@@ -1,0 +1,13 @@
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.exe.config
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.exe
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.pdb
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.csprojResolveAssemblyReference.cache
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.exe
+c:/users/c#/documents/visual studio 2015/Projects/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.pdb
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.exe.config
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.exe
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/bin/Debug/Example_1.pdb
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.exe
+/Users/admin/Documents/csharp/EA_Lesson4/CSharp_Advanced_Lesson_4/Example_1/obj/Debug/Example_1.pdb

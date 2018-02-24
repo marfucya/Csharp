@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D761729D-28F2-4F54-A163-BD806C50CBC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EA_Lesson2/AutoPark.cs">
+    <Files>
+      <File FileName="EA_Lesson2/Program.cs" Line="13" Column="1" />
+      <File FileName="EA_Lesson2/Car.cs" Line="4" Column="20" />
+      <File FileName="EA_Lesson2/PassagerCar.cs" Line="4" Column="18" />
+      <File FileName="EA_Lesson2/AutoPark.cs" Line="22" Column="9" />
+      <File FileName="EA_Lesson2/Iterator.cs" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EA_Lesson2" expanded="True">
+            <Node name="EA_Lesson2" expanded="True">
+              <Node name="AutoPark.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EA__Lesson2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

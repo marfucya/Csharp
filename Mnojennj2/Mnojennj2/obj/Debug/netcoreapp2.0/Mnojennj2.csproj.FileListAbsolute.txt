@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/bin/Debug/netcoreapp2.0/Mnojennj2.deps.json
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/bin/Debug/netcoreapp2.0/Mnojennj2.runtimeconfig.json
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/bin/Debug/netcoreapp2.0/Mnojennj2.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/bin/Debug/netcoreapp2.0/Mnojennj2.dll
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/bin/Debug/netcoreapp2.0/Mnojennj2.pdb
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.AssemblyInfo.cs
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.dll
+/Users/admin/Documents/csharp/Mnojennj2/Mnojennj2/obj/Debug/netcoreapp2.0/Mnojennj2.pdb

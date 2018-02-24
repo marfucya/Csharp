@@ -1,0 +1,1 @@
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example\bin\Debug\Example.exe.config

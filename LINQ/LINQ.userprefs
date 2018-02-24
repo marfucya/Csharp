@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{98E05D48-7F57-4F10-A6CA-C5FDD64AE54F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQ/Interfaces/IPatientManager.cs">
+    <Files>
+      <File FileName="LINQ/Program.cs" Line="2" Column="34" />
+      <File FileName="LINQ/Interfaces/IRegistry.cs" Line="35" Column="9" />
+      <File FileName="LINQ/Enums/TypeOfInfo.cs" Line="5" Column="1" />
+      <File FileName="LINQ/Interfaces/IEmployeeManager.cs" Line="8" Column="41" />
+      <File FileName="LINQ/Interfaces/IRoomManager.cs" Line="6" Column="26" />
+      <File FileName="LINQ/Interfaces/IPatientManager.cs" Line="13" Column="1" />
+      <File FileName="LINQ/Interfaces/IDoctor.cs" Line="5" Column="6" />
+      <File FileName="LINQ/Interfaces/IPatient.cs" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ClassWork PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

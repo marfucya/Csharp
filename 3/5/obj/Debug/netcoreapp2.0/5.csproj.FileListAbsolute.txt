@@ -1,0 +1,10 @@
+/Users/admin/Documents/csharp/3/5/bin/Debug/netcoreapp2.0/5.deps.json
+/Users/admin/Documents/csharp/3/5/bin/Debug/netcoreapp2.0/5.runtimeconfig.json
+/Users/admin/Documents/csharp/3/5/bin/Debug/netcoreapp2.0/5.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/3/5/bin/Debug/netcoreapp2.0/5.dll
+/Users/admin/Documents/csharp/3/5/bin/Debug/netcoreapp2.0/5.pdb
+/Users/admin/Documents/csharp/3/5/obj/Debug/netcoreapp2.0/5.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/3/5/obj/Debug/netcoreapp2.0/5.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/3/5/obj/Debug/netcoreapp2.0/5.AssemblyInfo.cs
+/Users/admin/Documents/csharp/3/5/obj/Debug/netcoreapp2.0/5.dll
+/Users/admin/Documents/csharp/3/5/obj/Debug/netcoreapp2.0/5.pdb

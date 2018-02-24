@@ -1,0 +1,10 @@
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/bin/Debug/netcoreapp2.0/EA_перечислитель.deps.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/bin/Debug/netcoreapp2.0/EA_перечислитель.runtimeconfig.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/bin/Debug/netcoreapp2.0/EA_перечислитель.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/bin/Debug/netcoreapp2.0/EA_перечислитель.dll
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/bin/Debug/netcoreapp2.0/EA_перечислитель.pdb
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/obj/Debug/netcoreapp2.0/EA_перечислитель.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/obj/Debug/netcoreapp2.0/EA_перечислитель.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/obj/Debug/netcoreapp2.0/EA_перечислитель.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/obj/Debug/netcoreapp2.0/EA_перечислитель.dll
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_перечислитель/obj/Debug/netcoreapp2.0/EA_перечислитель.pdb

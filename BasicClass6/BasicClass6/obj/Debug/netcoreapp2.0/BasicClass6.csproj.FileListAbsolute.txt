@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/bin/Debug/netcoreapp2.0/BasicClass6.deps.json
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/bin/Debug/netcoreapp2.0/BasicClass6.runtimeconfig.json
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/bin/Debug/netcoreapp2.0/BasicClass6.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/bin/Debug/netcoreapp2.0/BasicClass6.dll
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/bin/Debug/netcoreapp2.0/BasicClass6.pdb
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.AssemblyInfo.cs
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.dll
+/Users/admin/Documents/csharp/BasicClass6/BasicClass6/obj/Debug/netcoreapp2.0/BasicClass6.pdb

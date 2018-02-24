@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.AssemblyInfo.cs
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/bin/Debug/netcoreapp2.0/BasicLesson1.2.deps.json
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/bin/Debug/netcoreapp2.0/BasicLesson1.2.runtimeconfig.json
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/bin/Debug/netcoreapp2.0/BasicLesson1.2.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/bin/Debug/netcoreapp2.0/BasicLesson1.2.dll
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/bin/Debug/netcoreapp2.0/BasicLesson1.2.pdb
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.dll
+/Users/admin/Documents/csharp/BasicLesson1.2/BasicLesson1.2/obj/Debug/netcoreapp2.0/BasicLesson1.2.pdb

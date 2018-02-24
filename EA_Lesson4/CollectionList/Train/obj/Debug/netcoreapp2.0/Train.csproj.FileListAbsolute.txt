@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/bin/Debug/netcoreapp2.0/Train.deps.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/bin/Debug/netcoreapp2.0/Train.runtimeconfig.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/bin/Debug/netcoreapp2.0/Train.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/bin/Debug/netcoreapp2.0/Train.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/bin/Debug/netcoreapp2.0/Train.pdb
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/Train/obj/Debug/netcoreapp2.0/Train.pdb

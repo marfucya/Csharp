@@ -1,0 +1,10 @@
+/Users/admin/Documents/csharp/3/4/bin/Debug/netcoreapp2.0/4.deps.json
+/Users/admin/Documents/csharp/3/4/bin/Debug/netcoreapp2.0/4.runtimeconfig.json
+/Users/admin/Documents/csharp/3/4/bin/Debug/netcoreapp2.0/4.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/3/4/bin/Debug/netcoreapp2.0/4.dll
+/Users/admin/Documents/csharp/3/4/bin/Debug/netcoreapp2.0/4.pdb
+/Users/admin/Documents/csharp/3/4/obj/Debug/netcoreapp2.0/4.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/3/4/obj/Debug/netcoreapp2.0/4.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/3/4/obj/Debug/netcoreapp2.0/4.AssemblyInfo.cs
+/Users/admin/Documents/csharp/3/4/obj/Debug/netcoreapp2.0/4.dll
+/Users/admin/Documents/csharp/3/4/obj/Debug/netcoreapp2.0/4.pdb

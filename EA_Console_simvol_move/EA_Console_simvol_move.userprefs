@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{42425702-6E92-4130-87D4-1C9618C8F003}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyHTMLFile.html">
+    <Files>
+      <File FileName="EA_перечислитель/Program.cs" Line="7" Column="15" />
+      <File FileName="EA_Console_simvol_move/Program.cs" Line="25" Column="13" />
+      <File FileName="EA_Enumerator_Enumerable/Program.cs" Line="77" Column="13" />
+      <File FileName="EA_List/Program.cs" Line="22" Column="13" />
+      <File FileName="EA_Console_simvol_move/Стихи.css" Line="1" Column="1" />
+      <File FileName="EmptyHTMLFile.html" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EA__forEach PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EA__Enumerator__Enumerable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EA__Queue PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

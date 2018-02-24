@@ -1,0 +1,4 @@
+/Users/admin/Documents/csharp/EA_Lesson2/EA_Lesson2/obj/Debug/netcoreapp2.0/EA_Lesson2.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA_Lesson2/EA_Lesson2/obj/Debug/netcoreapp2.0/EA_Lesson2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson2/EA_Lesson2/obj/Debug/netcoreapp2.0/EA_Lesson2.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson2/EA_Lesson2/obj/Debug/netcoreapp2.0/EA_Lesson2.AssemblyInfo.cs

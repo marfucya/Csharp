@@ -1,0 +1,5 @@
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example_3\bin\Debug\Example_3.exe.config
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example_3\bin\Debug\Example_3.exe
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example_3\bin\Debug\Example_3.pdb
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example_3\obj\Debug\Example_3.exe
+c:\users\c#\documents\visual studio 2015\Projects\CSharp_Advanced_Lesson_4\Example_3\obj\Debug\Example_3.pdb

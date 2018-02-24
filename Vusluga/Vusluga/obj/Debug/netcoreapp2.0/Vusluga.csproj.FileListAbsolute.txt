@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.AssemblyInfo.cs
+/Users/admin/Documents/csharp/Vusluga/Vusluga/bin/Debug/netcoreapp2.0/Vusluga.deps.json
+/Users/admin/Documents/csharp/Vusluga/Vusluga/bin/Debug/netcoreapp2.0/Vusluga.runtimeconfig.json
+/Users/admin/Documents/csharp/Vusluga/Vusluga/bin/Debug/netcoreapp2.0/Vusluga.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/Vusluga/Vusluga/bin/Debug/netcoreapp2.0/Vusluga.dll
+/Users/admin/Documents/csharp/Vusluga/Vusluga/bin/Debug/netcoreapp2.0/Vusluga.pdb
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.dll
+/Users/admin/Documents/csharp/Vusluga/Vusluga/obj/Debug/netcoreapp2.0/Vusluga.pdb

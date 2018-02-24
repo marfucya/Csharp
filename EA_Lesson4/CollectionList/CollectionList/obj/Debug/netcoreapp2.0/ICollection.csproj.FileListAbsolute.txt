@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/bin/Debug/netcoreapp2.0/ICollection.deps.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/bin/Debug/netcoreapp2.0/ICollection.runtimeconfig.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/bin/Debug/netcoreapp2.0/ICollection.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/bin/Debug/netcoreapp2.0/ICollection.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/bin/Debug/netcoreapp2.0/ICollection.pdb
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/CollectionList/obj/Debug/netcoreapp2.0/ICollection.pdb

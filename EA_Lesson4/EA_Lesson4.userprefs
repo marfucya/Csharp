@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{23658A60-C5AF-4B5D-AC0A-E64E8BFB828F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EA_Lesson4/MyVersion.cs">
+    <Files>
+      <File FileName="EA_Lesson4/Program.cs" Line="26" Column="25" />
+      <File FileName="EA_Lesson4/Task2.cs" Line="17" Column="7" />
+      <File FileName="EA_Lesson4/MyVersion.cs" Line="17" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EA__Lesson4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

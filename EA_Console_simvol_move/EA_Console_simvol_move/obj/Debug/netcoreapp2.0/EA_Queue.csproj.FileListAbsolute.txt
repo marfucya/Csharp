@@ -1,0 +1,10 @@
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/bin/Debug/netcoreapp2.0/EA_Queue.deps.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/bin/Debug/netcoreapp2.0/EA_Queue.runtimeconfig.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/bin/Debug/netcoreapp2.0/EA_Queue.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/bin/Debug/netcoreapp2.0/EA_Queue.dll
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/bin/Debug/netcoreapp2.0/EA_Queue.pdb
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/obj/Debug/netcoreapp2.0/EA_Queue.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/obj/Debug/netcoreapp2.0/EA_Queue.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/obj/Debug/netcoreapp2.0/EA_Queue.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/obj/Debug/netcoreapp2.0/EA_Queue.dll
+/Users/admin/Documents/csharp/EA_Console_simvol_move/EA_Console_simvol_move/obj/Debug/netcoreapp2.0/EA_Queue.pdb

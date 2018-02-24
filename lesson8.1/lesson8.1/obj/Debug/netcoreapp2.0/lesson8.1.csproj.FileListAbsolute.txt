@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/bin/Debug/netcoreapp2.0/lesson8.1.deps.json
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/bin/Debug/netcoreapp2.0/lesson8.1.runtimeconfig.json
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/bin/Debug/netcoreapp2.0/lesson8.1.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/bin/Debug/netcoreapp2.0/lesson8.1.dll
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/bin/Debug/netcoreapp2.0/lesson8.1.pdb
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.AssemblyInfo.cs
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.dll
+/Users/admin/Documents/csharp/lesson8.1/lesson8.1/obj/Debug/netcoreapp2.0/lesson8.1.pdb

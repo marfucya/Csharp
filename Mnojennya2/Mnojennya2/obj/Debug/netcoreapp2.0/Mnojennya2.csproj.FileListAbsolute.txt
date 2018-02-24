@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.AssemblyInfo.cs
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/bin/Debug/netcoreapp2.0/Mnojennya2.deps.json
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/bin/Debug/netcoreapp2.0/Mnojennya2.runtimeconfig.json
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/bin/Debug/netcoreapp2.0/Mnojennya2.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/bin/Debug/netcoreapp2.0/Mnojennya2.dll
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/bin/Debug/netcoreapp2.0/Mnojennya2.pdb
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.dll
+/Users/admin/Documents/csharp/Mnojennya2/Mnojennya2/obj/Debug/netcoreapp2.0/Mnojennya2.pdb

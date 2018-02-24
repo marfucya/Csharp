@@ -1,0 +1,5 @@
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_1\bin\Debug\Lesson_3_1.exe.config
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_1\bin\Debug\Lesson_3_1.exe
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_1\bin\Debug\Lesson_3_1.pdb
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_1\obj\Debug\Lesson_3_1.exe
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_1\obj\Debug\Lesson_3_1.pdb

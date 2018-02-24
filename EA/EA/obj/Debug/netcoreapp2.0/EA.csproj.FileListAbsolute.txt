@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/EA/EA/bin/Debug/netcoreapp2.0/EA.deps.json
+/Users/admin/Documents/csharp/EA/EA/bin/Debug/netcoreapp2.0/EA.runtimeconfig.json
+/Users/admin/Documents/csharp/EA/EA/bin/Debug/netcoreapp2.0/EA.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA/EA/bin/Debug/netcoreapp2.0/EA.dll
+/Users/admin/Documents/csharp/EA/EA/bin/Debug/netcoreapp2.0/EA.pdb
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.dll
+/Users/admin/Documents/csharp/EA/EA/obj/Debug/netcoreapp2.0/EA.pdb

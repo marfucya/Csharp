@@ -1,0 +1,11 @@
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.AssemblyInfo.cs
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/bin/Debug/netcoreapp2.0/SecondTask.deps.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/bin/Debug/netcoreapp2.0/SecondTask.runtimeconfig.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/bin/Debug/netcoreapp2.0/SecondTask.runtimeconfig.dev.json
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/bin/Debug/netcoreapp2.0/SecondTask.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/bin/Debug/netcoreapp2.0/SecondTask.pdb
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.dll
+/Users/admin/Documents/csharp/EA_Lesson4/CollectionList/SecondTask/obj/Debug/netcoreapp2.0/SecondTask.pdb

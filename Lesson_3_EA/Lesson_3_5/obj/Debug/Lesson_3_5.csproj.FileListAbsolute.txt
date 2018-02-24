@@ -1,0 +1,6 @@
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\bin\Debug\Lesson_3_5.exe.config
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\bin\Debug\Lesson_3_5.exe
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\bin\Debug\Lesson_3_5.pdb
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\obj\Debug\Lesson_3_5.csprojResolveAssemblyReference.cache
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\obj\Debug\Lesson_3_5.exe
+c:\Users\C#\documents\visual studio 2015\Projects\Lesson_3\Lesson_3_5\obj\Debug\Lesson_3_5.pdb

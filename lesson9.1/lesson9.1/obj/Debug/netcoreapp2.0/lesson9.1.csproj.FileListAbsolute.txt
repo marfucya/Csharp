@@ -1,0 +1,4 @@
+/Users/admin/Documents/csharp/lesson9.1/lesson9.1/obj/Debug/netcoreapp2.0/lesson9.1.csprojResolveAssemblyReference.cache
+/Users/admin/Documents/csharp/lesson9.1/lesson9.1/obj/Debug/netcoreapp2.0/lesson9.1.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/csharp/lesson9.1/lesson9.1/obj/Debug/netcoreapp2.0/lesson9.1.AssemblyInfoInputs.cache
+/Users/admin/Documents/csharp/lesson9.1/lesson9.1/obj/Debug/netcoreapp2.0/lesson9.1.AssemblyInfo.cs

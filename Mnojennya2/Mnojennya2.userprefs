@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{062C92D5-F12D-49B6-9DE3-205711917CFD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mnojennya2/Program.cs">
+    <Files>
+      <File FileName="Mnojennya2/Program.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mnojennya2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
